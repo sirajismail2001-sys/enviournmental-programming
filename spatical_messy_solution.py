@@ -36,3 +36,6 @@ for i in range (nrows):
 Average_P=total/n
 print(Average_P)
 
+
+x = 2+2
+
