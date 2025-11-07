@@ -1,5 +1,5 @@
 #### exercise average
-
+hi I'm Victor
 f = open("D:/enviournmental programming/P_June2019.asc", "r")
 text= f.read()
 print(text)
